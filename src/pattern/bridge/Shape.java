@@ -1,7 +1,7 @@
-package pattern.builder;
+package pattern.bridge;
 
 /**
- * 桥接模式
+ * 桥接模式 https://blog.csdn.net/weixin_45538589/article/details/121474584
  */
 public abstract class Shape {
     private Color color;
