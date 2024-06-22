@@ -1,5 +1,8 @@
 package pattern.builder;
 
+/**
+ * 桥接模式
+ */
 public abstract class Shape {
     private Color color;
 
